@@ -1,7 +1,7 @@
 /*
 EJERCICIO 13
 
-Cajero automatico
+Cajero automatico simple
 
 */
 package ejercicio13;
