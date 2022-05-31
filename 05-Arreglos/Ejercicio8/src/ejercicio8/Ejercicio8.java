@@ -1,5 +1,7 @@
 /*
-EJERCICIO 8 Disenar una aplicacion que declare una tabla de 10 elementos
+EJERCICIO 8 
+
+Disenar una aplicacion que declare una tabla de 10 elementos
 enteros. Leer mediante teclado 8 numeros. Despues se debe pedir un numero y una
 posicion, insertarlo en la posicion indicada, desplazando los que esten detras.
 
