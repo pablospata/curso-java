@@ -4,6 +4,12 @@ EJERCICIO 7
 Crear una matriz "Marco" de tamano 5x5: todos sus elementos deben ser 0 salvo
 los de los bordes que deben ser 1. Mostrarla.
 
+1 1 1 1 1 
+1 0 0 0 1 
+1 0 0 0 1 
+1 0 0 0 1 
+1 1 1 1 1 
+
 */
 package ejercicio7;
 
