@@ -1,0 +1,6 @@
+package clasesymetodosabstractos;
+
+public abstract class SerVivo {
+    
+    public abstract void alimentarse();
+}
